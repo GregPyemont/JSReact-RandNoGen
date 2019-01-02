@@ -1,0 +1,14 @@
+.title {
+  color: blueviolet;
+  padding: 50px;
+  padding-bottom: 10px;
+}
+
+#bt {
+  margin: 25px;
+}
+
+#num {
+  font-size: 100px;
+  padding: 0%;
+}
